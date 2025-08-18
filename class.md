@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Xəyal]  
+- Certification: [Xəyal Nəcəfsoy]  
 
 ## Instructions
 Please replace the placeholders with your details:
